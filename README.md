@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @patclanett
+- 👀 I’m interested in building my skillset to become a full time developer!
+- 🌱 I’m currently learning Clojure, Clojurescript and their many libraries! 
+- 💞️ I’m looking to collaborate on open source Clojure/script projects!
