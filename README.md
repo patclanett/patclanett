@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @patclanett
-- 👀 I’m interested in building my skillset to become a full time developer!
-- 🌱 I’m currently learning Clojure, Clojurescript and their many libraries! 
+- 👀 I’m interested in building my functional skillset to contribute with elegant, powerful code!
+- 🌱 I’m currently learning Clojure, Clojurescript and their many libraries! My prior experience comes from Python and a bit of C#!
 - 💞️ I’m looking to collaborate on open source Clojure/script projects!
