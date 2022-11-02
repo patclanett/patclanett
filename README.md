@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @patclanett
-- 👀 I’m interested in building my functional skillset to contribute with elegant, powerful code!
-- 🌱 I’m currently learning Clojure, Clojurescript and their many libraries! My prior experience comes from Python and a bit of C#!
-- 💞️ I’m looking to collaborate on open source Clojure/script projects!
+My name's Tommy! I'm a self-taught developer focusing on Clojure and Clojurescript! Looking to make open-source contributions! Find me on twitter @patclanett!
