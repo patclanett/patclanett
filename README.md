@@ -1,1 +1,1 @@
-I'm a functional programmer with a passion for writing clean, efficient code. I specialize in Clojure and strive to create software with strong functional principles. I'm always looking for new ways to improve my skills, and I'm excited to contribute to open source projects!
+
